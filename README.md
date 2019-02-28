@@ -1,2 +1,2 @@
-# Responsive-Portfolio
-Assignment due: March 2nd
+# Basic-Portfolio
+RUBC: Homework due feb 26

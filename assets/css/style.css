@@ -1,0 +1,97 @@
+body {
+  color: #777777;
+  font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+  background-color: #e7b9b9;
+}
+
+header {
+  position: fixed;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 50px;
+  background-color: #ffffff;
+  border-bottom: 2px solid #cccccc;
+  border-width: 0px 0px 1px 0px;
+  z-index: 2;
+}
+
+#name {
+  position: fixed;
+  left: 210px;
+  top: 0px;
+  margin: 0px;
+  font-size: 30px;
+  color: white;
+  background-color: #4aaaa5;
+  padding: 10px 10px 6px 10px;
+  font-family: 'Georgia', 'Times New Roman', Times, serif;
+}
+
+.headerlinks {
+  color: #777777;
+  float: right;
+  padding: 10px 10px 10px 0px;
+}
+
+h1 {
+  clear: both;
+  font-family: 'Georgia', 'Times New Roman', Times, serif;
+  color: #4aaaa5;
+}
+
+.aboutme,
+.contact {
+  background-color: #ffffff;
+  border: 1px solid  #dddddd;
+  box-align: center;
+  padding: 10px;
+  margin: 10%;
+}
+
+.portfolio {
+  background-color: #ffffff;
+  border: 1px solid #dddddd;
+  box-align: center;
+  margin: 10%;
+  padding: 10px 10px 350px 10px;
+}
+
+.section {
+  clear: both;
+  width: 960px;
+  position: absolute;
+  left: 10%;
+  z-index: 1;
+}
+
+.cow {
+  padding: 3px 10px 0px 0px;
+  float: left;
+}
+
+.portfoliopics {
+  float: left;
+  padding: 10px;
+  box-align: center;
+}
+
+#em,
+#ph,
+#we {
+  font-weight: bolder;
+}
+
+footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  height: 30px;
+  text-align: center;
+  clear: both;
+  background-color: #666666;
+  border-top: 5px solid #4aaaa5;
+  color: #777777;
+  z-index: 2;
+}
