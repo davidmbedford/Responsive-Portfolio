@@ -117,6 +117,10 @@ footer {
   .section {
     width: 480px;
   }
+  header {
+    position: static;
+    top: 0;
+  }
 
 
 }
